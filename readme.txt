@@ -3,7 +3,7 @@
 // Configurás tu nombre y mail (para que quede en los commits): //
 
 git config --global user.name "Tu Nombre"
-git config --global user.email "tuemail@ejemplo.com"
+git config --global user.email "joaquinbertonasco95@gmail.com"
 
 
 Cuando hacés tu primer git push origin main, se abre una ventanita de GitHub → iniciás sesión y listo.
